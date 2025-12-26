@@ -1,3 +1,8 @@
+---
+name: hyperscript
+description: Write and debug hyperscript code for front-end web development. Use when working with hyperscript files, HTML with _ attributes, DOM manipulation, event handlers, behaviors, web workers, or HTMX integration. Covers all syntax, commands, expressions, and patterns.
+---
+
 # Hyperscript Skills Documentation
 
 ## Overview
